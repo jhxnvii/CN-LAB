@@ -1,0 +1,4 @@
+TCP: Transmission control Protocol 
+UDP: User datagram Protocol
+int socketfd
+
